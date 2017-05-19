@@ -1,0 +1,46 @@
+h1 {
+	text-align: center;
+	color: black;
+}
+
+h3 {
+	color: black;
+	font-family: Arial;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+
+p {
+	color: black;
+	text-align: center;
+}
+
+span {
+	font-weight: bold;
+	background-color: yellow;
+}
+
+table {
+	height: 100px;
+	width: 300px;
+	border: 1px solid black;
+	text-align: center;
+	background-color: #E8F8F5;
+}
+
+a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+img.center {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	height: 200; 
+	width: 200;
+}
+
+body {
+	background-color: #FAE5D3;
+}
